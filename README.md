@@ -3,6 +3,7 @@
 Спарсить request
 POST raw
 
+```
 let post_raw = JSON.parse(request.data);
 POST form data
 
